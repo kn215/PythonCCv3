@@ -1,6 +1,6 @@
 person = {
-    'first_name' : 'gift', 
-    'Last_Name': 'navarra', 
+    'first_name' : 'null', 
+    'Last_Name': 'null', 
     'age': 30, 'city': 
     'Doylestown',
     }
